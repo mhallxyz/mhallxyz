@@ -208,6 +208,7 @@ body {
   height: 150px !important;
   position: relative;
   display: block;
+  text-align: center;
 }
 
 .social-row {
